@@ -1,7 +1,7 @@
 # MOMoGP
 
 This is the official repository for MOMoGP introduced in 
-[Leveraging Probabilistic Circuits for Nonparametric Multi-Output Regression](https://ml-research.github.io/papers/yu2021uai_momogps.pdf) by Zhongjie Yu, Mingye Zhu, Martin Trapp, Arseny Skryagin, and Kristian Kersting, to be published at UAI 2021.
+[Leveraging Probabilistic Circuits for Nonparametric Multi-Output Regression](https://ml-research.github.io/papers/yu2021uai_momogps.pdf) by Zhongjie Yu, Mingye Zhu, Martin Trapp, Arseny Skryagin, and Kristian Kersting, published at UAI 2021.
 
 ![Learn_MOMoGP](./figures/Learn_MOMoGP.png)
 
@@ -10,7 +10,7 @@ This is the official repository for MOMoGP introduced in
 
 This will clone the repo, install a Python virtual env (requires Python 3.6), the required packages, and will download some datasets.
 
-    git clone https://github.com/minimrbanana/MOMoGP
+    git clone https://github.com/ml-research/MOMoGP
     ./setup.sh
 
 ## Demos
